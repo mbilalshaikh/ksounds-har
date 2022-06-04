@@ -1,0 +1,10 @@
+git log --oneline --graph
+git push -u origin main
+git commit -m '<msg>'
+git add .
+git status
+git remote -v
+git config.global.email = 'mbs.techy@gmail.com'
+git config.global.name = 'Muhammad Bilal Shaikh'
+git branch <branchname>
+git checkout <branchname>
